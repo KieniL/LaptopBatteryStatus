@@ -9,7 +9,7 @@ For Batch Running Use Run.bat (Change Path To PythonInterpreter). This can be Ru
 
 For Running as Startup:
 Create Shortcut on Desktop.
-Go to Home. Type in "Ausführen". Type in shell:StartUp.
+Go to Home. Type in "Ausführen". Type in shell:startup.
 Copy the Shortcut there and the batch file will be run on startUp
 
 
