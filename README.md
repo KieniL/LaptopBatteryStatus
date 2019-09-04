@@ -1,6 +1,9 @@
 # LaptopBatteryStatus
 Checks the BatteryStatus and Show a PopUp Screen if Battery is Lower 40 % and Higher 80 %
 
+##
+Prerequisites:
+Have Python and GIT installed
 
 For Installing Run install.bat (Change Path to PythonInterpreter)
 
