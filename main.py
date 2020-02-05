@@ -33,7 +33,7 @@ while True:
         batteryStatus = int(battery.BatteryStatus) #1 = Discharging
         chargeRemaining = int(battery.EstimatedChargeRemaining)
         if chargeRemaining <= 40 and (batteryStatus != 6  and batteryStatus != 2):
-            popupmsg("PlugIn Loading")
+            popupmsg("Plug In Loading")
         elif chargeRemaining >= 80 and (batteryStatus == 6 or batteryStatus == 2):
             popupmsg("Unplug Loading")
     time.sleep(600)
